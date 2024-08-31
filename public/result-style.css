@@ -1,0 +1,43 @@
+.title {
+    color: black;
+    margin-left: 332px;
+}
+
+.logout {
+    background-color: #FFCC66;
+    color: black;
+    border-radius: 10px;
+    border-color: #ffab0f;
+    font-weight: bold;
+}
+
+.navbar-style {
+    background-color: #90ee90;
+}
+
+.back-button {
+    margin-left: 10px;
+}
+
+h3 {
+    text-align: center;
+    padding-right: 43px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr {
+    color: grey;
+}
+
+th {
+    padding-bottom: 10px;
+}
+
+td {
+    padding-bottom: 10px;
+    padding-left: 25px;
+}

@@ -1,0 +1,101 @@
+.title-style {
+    color: black;
+    margin-left: 332px;
+
+}
+
+.logout-style {
+    background-color: #FFCC66;
+    color: black;
+    border-radius: 10px;
+    border-color: #ffab0f;
+    font-weight: bold;
+}
+
+.navbar-style {
+    background-color: #90ee90;
+}
+
+.back-button {
+    margin-left: 10px;
+}
+
+.edit-class {
+    padding-top: 10px;
+    padding-bottom: 27px;
+}
+
+.form {
+    display: inline;
+}
+
+.input-field {
+    margin-left: -38pxpx;
+    margin-bottom: -5px;
+    width: 500px;
+    ;
+
+}
+
+.label-field {
+    margin-bottom: -20px;
+    float: left;
+    padding: 0;
+    width: 160px
+}
+
+.add-style {
+    padding-bottom: 13px;
+    margin-left: -46px;
+}
+
+.btn-style {
+    border-radius: 16px;
+    width: 126px;
+    height: 37px;
+    margin-left: 256px;
+    margin-top: 13px;
+    background-color: #4169e1;
+    border: #4169e1;
+    color: aliceblue;
+}
+
+.btn1-style {
+    border-radius: 16px;
+    width: 126px;
+    height: 37px;
+    /* margin-left: 256px; */
+    margin-top: 13px;
+    background-color: whitesmoke;
+    /* border: 1px black; */
+    color: black;
+}
+
+.result-style {
+    padding-bottom: 13px;
+    margin-left: -46px;
+}
+
+.form-style {
+    padding-top: 115px;
+    padding-left: 200px;
+}
+
+.search-field {
+    margin-left: -90px;
+    margin-bottom: -5px;
+    width: 500px;
+    ;
+
+}
+
+.btn-search {
+    border-radius: 16px;
+    width: 126px;
+    height: 37px;
+    margin-left: 95px;
+    margin-top: 13px;
+    background-color: #4169e1;
+    border: #4169e1;
+    color: aliceblue;
+}
